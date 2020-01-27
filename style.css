@@ -1,0 +1,27 @@
+.MainHeading {
+font-family: cursive;
+font-style: normal;
+font-size: 40px;
+font-style: italic;
+color: red;
+transform: skew(60deg);
+}
+
+.SubHeading {
+  color: Purple;
+  font-size: 20px;
+  padding-left: 75px;
+  transform: skew(60deg);
+  
+}
+
+.Parallelogram {
+  width: 500px;
+  height: 200px;
+  transform: skew(-60deg);
+border-style: solid;
+border-color: Purple;
+padding-left: 250px;
+margin-left: 250px;
+
+}
